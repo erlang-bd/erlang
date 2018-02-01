@@ -1,4 +1,5 @@
- 213  sudo apt-get update
+```sh
+  213  sudo apt-get update
   214  sudo apt-get install git
   215  sudo apt-get install m4
   216  sudo apt-get install ncurses-term 
@@ -73,3 +74,4 @@
   285  sudo apt-get install unixodbc-dev 
   286  ./configure --with-ss
   287  ./configure --with-ssl
+```
