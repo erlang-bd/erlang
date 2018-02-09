@@ -1,5 +1,6 @@
-### Erlang Build From Source Code
+### [Erlang Build From Source Code](http://erlang.org/doc/installation_guide/INSTALL.html)
 
+### Install Dependencies
 ```sh
 sudo apt-get update
 sudo apt-get dist-upgrade
@@ -37,9 +38,13 @@ sudo apt-get install libxml2-dev
 sudo apt-get install libxml
 sudo apt-get install libxmlsec1
 sudo apt-get install unixodbc-dev
+```
 
+### Build Start
+```
 cd /opt/erlang/
 export ERL_TOP=`pwd`
 ./configure --with-ssl
 make -j8
 ```
+
