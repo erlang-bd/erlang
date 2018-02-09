@@ -23,6 +23,7 @@ sudo apt-get install mysql-server
 mysql_secure_installation
 mysql -u root -p
 sudo apt-get install libncurses5-dev libncursesw5-dev libssl-dev
+sudo apt-get install libxml2-utils xsltproc
 sudo apt-get install unixodbc-dev
 sudo apt-get install libwxbase2.8
 sudo apt-get install libwxgtk2.8-dev
