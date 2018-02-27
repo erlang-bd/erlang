@@ -25,3 +25,15 @@ start() ->
 ```sh
 erlc main.erl ; erl -noshell -s main start -s init stop
 ```
+
+#### Erlang Shell
+
+```sh
+erl
+```
+
+#### Compile
+```sh
+c(main).
+main:start().
+```
