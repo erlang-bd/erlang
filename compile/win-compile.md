@@ -32,7 +32,8 @@ erlc main.erl ; erl -noshell -s main start -s init stop
 erl
 ```
 
-#### Compile
+#### Compile and Run
+
 ```sh
 c(main).
 main:start().
