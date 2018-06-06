@@ -1,4 +1,4 @@
-## Erlang Linux install
+## [Erlang Linux install](https://packages.erlang-solutions.com/erlang/)
 
 Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Erlang runtime system has built-in support for concurrency, distribution and fault tolerance. This tutorial will help you to install erlang on Ubuntu 18.04 and 16.04 operating system.
 
